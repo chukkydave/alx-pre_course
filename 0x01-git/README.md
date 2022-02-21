@@ -18,6 +18,7 @@ This is a repo for my ALX software engineering training which is part of my task
 ## Technologies Used
 - git
 - command line
+- ALX sandbox
 
 
 ## Features
